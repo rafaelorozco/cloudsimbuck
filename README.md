@@ -1,6 +1,6 @@
 # Physical Simulation of Cloud Formation. 
 
-Independent Study in Computer science department. Under Dr. Joshua Stough
+Independent Study in Bucknell Computer Science Department. Under Dr. Joshua Stough
 
 ## Project Description
 
