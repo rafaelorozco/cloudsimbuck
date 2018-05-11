@@ -10,40 +10,19 @@ Physically based cloud simulation. Methods and algorithms are based off of Maste
 
 ![alt tag](img/nagelB.png)
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Results 
 
-We will insert a written description of our results along with a few key graphs. 
+We succesfully implemented the Overby method and were able to run a simulation that resulted in a physically based cloud formation.
+
+![alt tag](img/firstCloud.gif)
 
 
 ## Built With
 
 * [Python](https://www.python.org/) - Used as main coding platform
+* [PyQtGraph](http://www.pyqtgraph.org/) - 3d visualizer
+* [Noise](https://github.com/caseman/noise) - Perlin noise generator
 
 ## Authors
 
@@ -51,6 +30,6 @@ We will insert a written description of our results along with a few key graphs.
 
 ## Acknowledgments
 
-* Joshua Stough
-* Christina Hamlet 
+* Prof. Joshua Stough
+* Prof. Christina Hamlet 
 
